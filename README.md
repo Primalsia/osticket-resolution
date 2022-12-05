@@ -3,8 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
-General tutorial outline showing the ticket lifecycle from intake to resolution within the open-source help desk ticketing system, osTicket.
-<br />
+Outline showing an example of the ticket lifecycle from intake to resolution within the open-source help desk ticketing system, osTicket. I will add on to this documentation as I continue to practice through these steps to improve my efficiency and experience!
+<br/>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,25 +26,25 @@ General tutorial outline showing the ticket lifecycle from intake to resolution 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Ticket Creation by End User"/>
+<img src="#" height="80%" width="80%" alt="Ticket Creation by End User"/>
 </p>
 <p>
 End User creates a ticket, the isssue summary is labeled "XXX" due to [issue]. 
 </p>
-<br />
+<br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Queue Managers, Ticket Assignments"/>
+<img src="#" height="80%" width="80%" alt="Queue Managers, Ticket Assignments"/>
 </p>
 <p>
 Once completed, agents will see the tickets in real-time through the Agent Panel, and Queue managers will assign tickets by priority to the specified agent, along with suitable SLAs.
 </p>
-<br />
+<br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Wrapping Up Tickets"/>
+<img src="#" height="80%" width="80%" alt="Wrapping Up Tickets"/>
 </p>
 <p>
 Agent will begin to work on the ticket with the highest priority and SLA plan noted assigned to them.
 </p>
-<br />
+<br/>
